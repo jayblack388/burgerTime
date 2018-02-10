@@ -1,0 +1,35 @@
+{
+  "name": "burgertime",
+  "version": "1.0.0",
+  "description": "Express/ORM/MVC/MySQL Homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayblack388/burgerTime.git"
+  },
+  "keywords": [
+    "Express",
+    "MySQL",
+    "ORM",
+    "MVC",
+    "Bootcamp",
+    "Homework"
+  ],
+  "author": "John Blackwell <jblackwell072588@gmail.com> (jayblack388.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayblack388/burgerTime/issues"
+  },
+  "homepage": "https://github.com/jayblack388/burgerTime#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
