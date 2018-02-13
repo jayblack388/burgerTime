@@ -1,0 +1,10 @@
+INSERT INTO burgers (burger_name) VALUES ('Poutine on the Ritz');
+INSERT INTO burgers (burger_name) VALUES ('Poblano Picasso Burger');
+INSERT INTO burgers (burger_name) VALUES ('Beets of Burden Burger');
+INSERT INTO burgers (burger_name) VALUES ('Cheeses is Born Burger');
+INSERT INTO burgers (burger_name) VALUES ('Paranormal Pepper Jack-tivity Burger');
+INSERT INTO burgers (burger_name) VALUES ("Let's Give 'Em something Shiitake 'Bout Burger");
+INSERT INTO burgers (burger_name) VALUES ('Onion Ring around the Rosemary Burger');
+INSERT INTO burgers (burger_name) VALUES ('I Know Why the Cajun Burger Sings');
+INSERT INTO burgers (burger_name) VALUES ('Hummus a Tune Burger');
+INSERT INTO burgers (burger_name) VALUES ('Mission A-Corn-Plished Burger');
